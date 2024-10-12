@@ -1,0 +1,7 @@
+· ID              (Номер чек-листа )
+· Title           (Описание)
+· date check      (Дата проверки)
+· inspector  	  (Проверяющий)
+· Expected Result (Ожидаемый результат)
+· Comment         (Комментарий)
+· Status          (Статус)
