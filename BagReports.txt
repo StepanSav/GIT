@@ -9,5 +9,4 @@
 9. Actual result (Фактический результат)
 10. Attachment (Вложения)
 11. Author (Автор)
-12. Assigned To (Назначен на) 
-13.
+12. Assigned To(Назначен на)
